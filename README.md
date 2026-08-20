@@ -340,4 +340,4 @@ Gera uma versão otimizada da aplicação para produção.
 
 **Letícia Gomes**
 
-Projeto desenvolvido para fins acadêmicos, aplicando conceitos de desenvolvimento de aplicações web com **React**, componentização, organização de interfaces e gerenciamento de informações de ambientes e sensores.
+Projeto desenvolvido com fins acadêmicos para a disciplina de **Fundamentos de React**, aplicando conceitos de desenvolvimento de aplicações web com **React**, componentização, organização de interfaces e gerenciamento de informações de ambientes e sensores.
